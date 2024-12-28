@@ -1,0 +1,23 @@
+@media all and (min-width: 1150px) {
+    .trsprnt:hover {
+      background-color: white;
+      border-color: transparent;
+    }
+    .green:hever{
+    border:0px solid;
+    background-color: transparent;
+    }
+    .nav-link:hover {
+        background-color: black;
+        color:white;
+        size:20px;
+    }
+    
+@media all and (max-width:768)   {
+  .nav-link {
+      overflow: auto;
+      white-space: nowrap;
+  }
+  
+}
+}
